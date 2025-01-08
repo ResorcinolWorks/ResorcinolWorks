@@ -4,7 +4,7 @@
 ---
 
 - 🎓 **B.Tech Computer Engineering** at **Delhi Technological University** (2022 - 2026)
-- 🏆 **CodeChef 3★ (1612)** | **Global Rank 653 on Starters**
+- 🏆 **CodeChef 3★ (1619)** | **Global Rank 653 on Starters**
 - 🔭 **Personal Portfolio**: [My Portfolio](https://ayush-raghuvanshi-portfolio.vercel.app/)
 
 ---
@@ -59,8 +59,8 @@
 
 - 🥇 **Global Rank 653** on CodeChef Starters 155
 - 💻 Solved **250+ problems** on LeetCode  
-- ⭐ **3-Star** on CodeChef with a rating of **1612**
-- 📈 **Codeforces Rating: 1100**
+- ⭐ **3-Star** on CodeChef with a rating of **1619**
+- 📈 **Codeforces Rating: 1111**
 
 ---
 
@@ -69,9 +69,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codelearner6742AP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-raghuvanshi-382a2324b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-raghuvanshi-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Codelearner6742AP/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/purucoder_6742)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/magicalcoder43)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Resorcinol/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Resorcinol)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/resorcinol)
 
 ---
 
