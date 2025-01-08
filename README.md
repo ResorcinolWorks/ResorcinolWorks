@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Raghuvanshi</h1>
-<h3 align="center">Passionate Developer | Problem Solver </h3>
+<h3 align="center">Passionate Problem Solver </h3>
 
 ---
 
