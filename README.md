@@ -4,7 +4,8 @@
 ---
 
 - 🎓 **B.Tech Computer Engineering** at **Delhi Technological University** (2022 - 2026)
-- 🏆 **CodeChef 3★ (1619)** | **Global Rank 653 on Starters**
+- 🏆 **CodeChef 3★💙 (1619)** | **Global Rank 653 on Starters**
+- 📈 **Codeforces Rating: 1208** (Pupil💚)
 - 🔭 **Personal Portfolio**: [My Portfolio](https://ayush-raghuvanshi-portfolio.vercel.app/)
 
 ---
@@ -60,7 +61,7 @@
 - 🥇 **Global Rank 653** on CodeChef Starters 155
 - 💻 Solved **250+ problems** on LeetCode  
 - ⭐ **3-Star** on CodeChef with a rating of **1619**
-- 📈 **Codeforces Rating: 1111**
+- 📈 **Codeforces Rating: 1208** (Pupil)
 
 ---
 
