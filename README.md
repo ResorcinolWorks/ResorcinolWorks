@@ -12,7 +12,7 @@
 - 🏆 **CodeChef 4★💜 (1802)** | **Global Rank 653 on Starters**  
 - 📈 **Codeforces Rating: 1465** (Specialist🩵)  
 - ⚔️ **LeetCode Knight 🛡️ with 1857**  
-- 🔭 **Personal Portfolio**: [My Portfolio](resorcinolworks.tech)
+- 🔭 **Personal Portfolio**: [My Portfolio](https://www.resorcinolworks.tech)
 
 ---
 
@@ -79,7 +79,7 @@
 ### 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ResorcinolWorks)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-raghuvanshi-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.resorcinolworks.tech)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Resorcinol/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Resorcinol)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/resorcinol)
