@@ -128,4 +128,4 @@ Let's connect and create something amazing! 🚀✨
 
 ---
 
-<p align="center">Made with ❤️ by Ayush Raghuvanshi | Problem Solver | Backend Developer</p>
+<p align="center">Made with ❤️ by Ayush Raghuvanshi | Backend Developer</p>
