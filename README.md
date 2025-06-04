@@ -96,7 +96,6 @@ Let's connect and create something amazing! 🚀✨
 <h4>🌐 Connect with Me:</h4>
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ResorcinolWorks)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayush-raghuvanshi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.resorcinolworks.tech)
 
 ---
