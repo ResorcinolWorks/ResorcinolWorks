@@ -1,4 +1,4 @@
-# Sup! I'm Ayush Raghuvanshi 👋
+# Sup! I'm Ayush Raghuvanshi aka Reso on X 👋
 
 Hi there! I'm Ayush, a passionate Problem Solver and Backend Developer pursuing BTech Computer Engineering at Delhi Technological University. I blend logical thinking with powerful code to build robust digital solutions. Skilled in competitive programming and backend development, I'm currently mastering Spring Boot alongside exploring full-stack development with React and Next.js.<br><br>
 
