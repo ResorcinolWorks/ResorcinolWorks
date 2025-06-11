@@ -1,6 +1,6 @@
 # Sup! I'm Ayush Raghuvanshi (aka Reso on X) 👋
 
-Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering at Delhi Technological University. I blend logical thinking with powerful code to build robust digital solutions. Skilled in competitive programming and backend development, I'm currently mastering Spring Boot alongside exploring full-stack development with React and Next.js.<br><br>
+Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering at Delhi Technological University. I blend logical thinking with powerful code to build robust digital solutions. Currently mastering Spring Boot alongside full-stack development with React and Next.js.<br><br>
 
 **🚀 Skills at a Glance:**<br>
 - Backend Development (Java, Spring Boot, Node.js)
@@ -15,7 +15,6 @@ Let's connect and create something amazing! 🚀✨
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Backend+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 <a href="https://github.com/ResorcinolWorks" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ResorcinolWorks?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Resorcinol/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LeetCode-Knight%20🛡️-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ResorcinolWorks&label=Profile+Views&color=2f81f7&style=for-the-badge" /></a>
 
 ## ⚙️ Tech Stack
@@ -45,20 +44,8 @@ Let's connect and create something amazing! 🚀✨
 
 ## 🏆 Competitive Programming Achievements
 
-- #### 🛡️ LeetCode Knight with Rating 1857
-  ```250+ Problems Solved```
-  
-  Achieved the prestigious Knight rank on LeetCode, demonstrating consistent problem-solving skills and algorithmic thinking across diverse problem categories.
-
-- #### ⭐ CodeChef 4-Star Coder (Rating: 1802)
-  ```Global Rank 653 on Starters 155```
-  
-  Maintained a 4-star rating on CodeChef with exceptional performance, securing top global rankings in competitive contests.
-
-- #### 🩵 Codeforces Specialist (Rating: 1465)
-  ```Consistent Contest Participation```
-  
-  Achieved Specialist rank on Codeforces, showcasing strong algorithmic problem-solving abilities in timed competitive environments.
+- **IICPC Preliminaries 2025:** Secured **AIR 1222** among **40,000+** participants  
+- *Find my CP profiles in* [**🎯 Competitive Programming Stats**](#-competitive-programming-stats)
 
 ---
 
@@ -127,4 +114,4 @@ Let's connect and create something amazing! 🚀✨
 
 ---
 
-<p align="center">Made with ❤️ by Ayush Raghuvanshi | Backend Developer</p>
+<p align="center">Made with ❤️ by Ayush Raghuvanshi</p>
