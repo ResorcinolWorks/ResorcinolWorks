@@ -1,6 +1,6 @@
 # Sup! I'm Ayush Raghuvanshi (aka Reso on X) 👋
 
-Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering at Delhi Technological University. 
+Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering 
 
 - I blend logical thinking with powerful code to build robust digital solutions. 
 
