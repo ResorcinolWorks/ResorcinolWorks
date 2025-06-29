@@ -6,7 +6,6 @@ Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pu
 
 - Currently mastering Spring Boot alongside full-stack development with React and Next.js.<br><br>
 
-
 **🚀 Skills at a Glance:**<br>
 - Backend Development (Java, Spring Boot, Node.js)
 - Competitive Programming: CodeChef 4★, Codeforces Specialist, LeetCode Knight
