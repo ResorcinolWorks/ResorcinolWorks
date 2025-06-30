@@ -1,4 +1,4 @@
-# Sup! I'm Ayush Raghuvanshi (aka Reso on X) 👋
+# Sup! I'm Ayush (aka Reso on X) 👋
 
 Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering 
 
