@@ -118,4 +118,4 @@ Let's connect and create something amazing! 🚀✨
 
 ---
 
-<p align="center">Made with ❤️ by Ayush Raghuvanshi</p>
+<p align="center">Made with ❤️ by Reso</p>
