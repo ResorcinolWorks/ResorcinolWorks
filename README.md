@@ -19,6 +19,7 @@ Let's connect and create something amazing! 🚀✨
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Backend+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 <a href="https://github.com/ResorcinolWorks" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ResorcinolWorks?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://coff.ee/editzayushy" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ResorcinolWorks&label=Profile+Views&color=2f81f7&style=for-the-badge" /></a>
 
 ## ⚙️ Tech Stack
@@ -37,8 +38,7 @@ Let's connect and create something amazing! 🚀✨
 
 ```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skills.thijs.gg)
-![H2](https://img.shields.io/badge/H2-004B87?style=for-the-badge&logo=h2&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
