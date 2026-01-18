@@ -1,93 +1,95 @@
 # Sup! I'm Ayush (aka Reso on X) 👋
 
-Hi there! I'm Ayush, a Backend Developer and part-time Competitive Programmer pursuing BTech Computer Engineering 
+**Data Science Intern at an MNC** | BTech Computer Engineering
 
-- I blend logical thinking with powerful code to build robust digital solutions. 
+- 📊 Building data pipelines, ML models, and extracting insights from complex datasets
+- 🔬 Currently working on data modelling, statistical analysis, and predictive analytics
+- 🧠 Passionate about Deep Learning, NLP, and Computer Vision
 
-- Currently mastering Spring Boot alongside full-stack development with React and Next.js.<br><br>
-
-**🚀 Skills at a Glance:**<br>
+**🚀 Skills at a Glance:**
+- Data Analysis & Visualization (Python, SQL, Power BI, Excel)
+- Machine Learning & Deep Learning (Sklearn, TensorFlow, PyTorch)
+- Data Engineering (PySpark, Kafka, AWS, ETL Pipelines)
 - Backend Development (Java, Spring Boot, Node.js)
-- Competitive Programming: CodeChef 4★, Codeforces Specialist, LeetCode Knight
-- Full Stack Development: React, Next.js, TypeScript
-- Database Management: MongoDB, Supabase
-- Problem Solving & Algorithm Design: 250+ LeetCode problems solved
+- Problem Solving: 250+ LeetCode problems | CodeChef 4★ | Codeforces Specialist
 
-Let's connect and create something amazing! 🚀✨
+<br>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Backend+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=500&height=100&lines=Data+Science+Intern;ML+Engineer;)](https://git.io/typing-svg)
 
 <a href="https://github.com/ResorcinolWorks" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ResorcinolWorks?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://coff.ee/editzayushy" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ResorcinolWorks&label=Profile+Views&color=2f81f7&style=for-the-badge" /></a>
+<img src="https://komarev.com/ghpvc/?username=ResorcinolWorks&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+
+---
 
 ## ⚙️ Tech Stack
 
-```Programming Languages```
+```Data Science & ML```
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch&theme=light)](https://skills.thijs.gg)
 
-```Frontend Technologies```
+```Data Engineering```
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,kafka,hadoop,aws&theme=light)](https://skills.thijs.gg)
 
-```Backend Technologies```
+```Databases & Query```
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
 
-```Databases```
+```Programming & Scripting```
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,java,r&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=light)](https://skills.thijs.gg)
+
+```Backend Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi,django&theme=light)](https://skills.thijs.gg)
 
 ---
 
-## 🏆 Competitive Programming Achievements
+## 🌟 Data Science Projects
 
-- **IICPC Preliminaries 2025:** Secured **AIR 1222** among **40,000+** participants  
-- *Find my CP profiles in* [**🎯 Competitive Programming Stats**](#-competitive-programming-stats)
-
----
-
-## 🌟 Featured Projects
-
-- #### GreenWallet - ML-Driven Carbon Marketplace
-  ```Next.js | Supabase | TypeScript```
+- #### [Image Caption Generator](https://github.com/ResorcinolWorks/ICG) - CNN-LSTM Deep Learning
+  ```Python | TensorFlow | DenseNet201 | LSTM | Flickr8K```
   
-  Built an innovative ML-powered platform where users earn and redeem carbon points through sustainable actions. Features real-time tracking, predictive analytics, and gamified environmental consciousness.
+  Encoder-decoder architecture using pre-trained DenseNet201 for image feature extraction and LSTM network for sequential caption generation. Includes custom data generator and residual connections.
 
-- #### HealthAI - AI-Powered Health Platform
-  ```Next.js | Node.js | Machine Learning```
+- #### [Deep Learning Lab](https://github.com/ResorcinolWorks/DeepLearningLab) - DL Implementations
+  ```Python | TensorFlow | Neural Networks | CNNs | RNNs```
   
-  Developed an intelligent health monitoring system that uses AI to analyze health metrics and trends, providing personalized insights for better diagnostics and wellness tracking.
+  Comprehensive repository of Deep Learning implementations covering neural network architectures, optimization techniques, and model training strategies.
 
-- #### BusKaro - Online Ticket Booking System
-  ```React | Java | Spring Boot | TypeScript```
+- #### GreenWallet - ML-Driven Carbon Analytics
+  ```Python | Machine Learning | Predictive Analytics```
   
-  Created a comprehensive bus ticket booking platform with real-time seat availability, secure payment processing, and user-based transaction history management.
+  ML-powered platform with predictive analytics for carbon footprint tracking. Features real-time data processing and trend analysis.
+
+- #### HealthAI - Predictive Health Analytics
+  ```Python | Machine Learning | Data Visualization```
+  
+  Intelligent health monitoring system using ML to analyze health metrics, identify patterns, and provide data-driven wellness insights.
 
 ---
 
-## 🎯 Competitive Programming Stats
+## 🏆 Achievements
 
-<div align="center">
+| Platform | Rating | Rank |
+|----------|--------|------|
+| [LeetCode](https://leetcode.com/u/Resorcinol/) | 1857 | Knight 🛡️ |
+| [CodeChef](https://www.codechef.com/users/resorcinol) | 1802 | 4★ |
+| [Codeforces](https://codeforces.com/profile/Resorcinol) | 1465 | Specialist |
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20🛡️%201857-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Resorcinol/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4⭐%201802-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/resorcinol)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20🩵%201465-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Resorcinol)
-
-</div>
+- **IICPC Preliminaries 2025:** AIR 1222 among 40,000+ participants
 
 ---
 
-<h4>🌐 Connect with Me:</h4>
+## 🌐 Connect
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ResorcinolWorks)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.resorcinolworks.tech)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/ResorcinolWorks)
+[![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://www.resorcinolworks.tech)
 
 ---
 
@@ -103,18 +105,10 @@ Let's connect and create something amazing! 🚀✨
 <a href="https://github.com/ResorcinolWorks">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ResorcinolWorks&show_icons=true&count_private=true&theme=radical" width="400px"/>
 </a>
-
 <a href="https://github.com/ResorcinolWorks">
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResorcinolWorks&theme=radical&layout=compact" width="400px"/>
 </a>
 </p>
-
----
-
-### 🎧 Coding Playlist
-
-[![Coding Vibes](https://img.shields.io/badge/Coding%20Vibes-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/search/coding%20music) 
-[![Lo-Fi Focus](https://img.shields.io/badge/Lo--Fi%20Focus-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/search/lofi%20hip%20hop)
 
 ---
 
