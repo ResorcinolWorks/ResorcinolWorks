@@ -1,4 +1,4 @@
-# Sup! I'm Ayush (aka Rhyush on X) 👋 [This is outdated data of me, all the below stuff was performative stuff to stand out, frankly i dont need it anymore, I just read and save blogs,repositories ]
+# Sup! I'm Ayush (aka Rhyush on X) 👋 [This is outdated data of me, all the below stuff was performative stuff to stand out, frankly i dont need it anymore, I now just read and save blogs,repositories ]
 
 **Data Science Intern at an MNC** | BTech Computer Engineering
 
